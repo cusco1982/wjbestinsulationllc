@@ -1,0 +1,20 @@
+{
+  "name": "wjbestinsulationllc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cusco1982/wjbestinsulationllc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cusco1982/wjbestinsulationllc/issues"
+  },
+  "homepage": "https://github.com/cusco1982/wjbestinsulationllc#readme"
+}
